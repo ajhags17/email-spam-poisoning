@@ -2,6 +2,10 @@
 
 **GRAD 50400: Advanced AI Fundamentals for technical professionals– Team Project**
 
+## Team
+
+Group 9: Ashish K. (Purdue Id: 039704863), Bahram A. (Purdue Id: 039543049) & Garv J. ( Purdue Id: 039761425)
+
 ## Overview
 
 This project analyzes email spam datasets to understand classification patterns and potential poisoning vulnerabilities. The analysis combines multiple datasets and applies data preprocessing, feature exploration, and modeling techniques.
@@ -23,8 +27,4 @@ This project analyzes email spam datasets to understand classification patterns 
 
 * The notebook is self-contained and reproducible
 * Data is included locally for ease of execution
-
-## Team
-
-Group 9 – GRAD 50400: Ashish K. (Purdue Id: 039704863), Bahram A. (Purdue Id: 039543049) & Garv J. ( Purdue Id: 039761425)
 
