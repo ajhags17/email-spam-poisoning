@@ -26,4 +26,5 @@ This project analyzes email spam datasets to understand classification patterns 
 
 ## Team
 
-Group 9 – GRAD 50400
+Group 9 – GRAD 50400: Ashish K. (Purdue Id: 039704863), Bahram A. (Purdue Id: 039543049) & Garv J. ( Purdue Id: 039761425)
+
