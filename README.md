@@ -1,6 +1,6 @@
 # Email Spam Poisoning Analysis
 
-**GRAD 50400 – Team Project**
+**GRAD 50400: Advanced AI Fundamentals for technical professionals– Team Project**
 
 ## Overview
 
